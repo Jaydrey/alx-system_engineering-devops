@@ -9,3 +9,5 @@
 2. Let's display a file - This script displays the contents of the <code>/etc/passwd</code>.
 3. What about 2? - This script displays the content of <code>/etc/passwd</code> and <code>/etc/hosts</code>
 4. Last lines of a file - This script displays the last 10 lines of <code>/etc/passwd</code>
+5. I'd prefer the first ones actually - This script displays the first 10 lines of <code>/etc/passwd</code>
+
